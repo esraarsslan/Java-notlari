@@ -9,9 +9,9 @@ public interface Engine {
    "multiple inheritance" class'larda mumkun degildir fakat Java "interface" isimli yeni bir yapi olusturdu
     bu yapida "multiple inheritance" a musaade etti.
 
-     2)     // interfaclerekiher sey abstcract oldugu icin ona
+     2)     // interfaclerekiher tum methodlar abstcract oldugu icin ona
      tam abstrcation  ( FULLY ABSTRACTION) denir.
-     " ABSTRACT class'lar da abstract method ve concrete method bir arada kullanildigi icin
+     " ABSTRACT class'lar da abstract method ve concrete (non-abstract) method bir arada kullanildigi icin
      Abstract classlara 'FULLY ABSTRACTION" DEN-MEZ!!!
 
 */
